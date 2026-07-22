@@ -1,6 +1,7 @@
 <?php
 // Memastikan PHP mencari file data.json tepat di folder yang sama dengan index.php
 $file_path = __DIR__ . '/data.json';
+$data = json_decode(file_get_contents(__DIR__ . '/data.json'), true);
 
 // Cek darurat jika file tidak ditemukan
 if (!file_exists($file_path)) {
