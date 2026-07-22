@@ -3,15 +3,7 @@
     "api/index.php": {
       "runtime": "vercel-php@0.8.0"
     }
-  },
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/api/index.php"
-    }
-  ]
-}
-{
+  {
   "rewrites": [
     {
       "source": "/image/(.*)",
@@ -21,6 +13,9 @@
       "source": "/download_vcf.php",
       "destination": "/api/download_vcf.php"
     },
-  
+    {
+      "source": "/(.*)",
+      "destination": "/api/index.php"
+    }
   ]
 }
