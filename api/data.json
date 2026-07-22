@@ -17,3 +17,24 @@
     }
   }
 }
+
+{
+  "Melissa ": {
+    "name": "Melissa Kusmono",
+    "title": "Director",
+    "company": "PT. Forin Maju Logistik",
+    "mobile": "+6282141614725",
+    "phone": "02154358009",
+    "email": "willy@jkt.forinlogistics.com",
+    "wechat_qr": "https://raw.githubusercontent.com/forinjkt88/vcardForin1/main/image/wechat/wechat-willy.png",
+    "email": "willy@jkt.forinlogistics.com",
+    "logo": "https://raw.githubusercontent.com/forinjkt88/vcardForin1/main/image/logo-forin.png",
+    "banner": "https://raw.githubusercontent.com/forinjkt88/vcardForin1/main/image/logo-forin.png",
+    "social": {
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
+      "website": "https://forinlogistics.com"
+    }
+  }
+}
+
