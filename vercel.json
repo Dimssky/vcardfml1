@@ -1,13 +1,24 @@
 {
   "functions": {
     "api/index.php": {
-      "runtime": "vercel-php@0.8.0"
+      "runtime": "vercel-community/php@0.4.3"
+    },
+    "api/download_vcf.php": {
+      "runtime": "vercel-community/php@0.4.3"
     }
   },
-  "routes": [
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "/api/index.php"
+      "source": "/image/(.*)",
+      "destination": "/image/$1"
+    },
+    {
+      "source": "/download_vcf.php",
+      "destination": "/api/download_vcf.php"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/api/index.php"
     }
   ]
 }
