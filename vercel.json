@@ -1,10 +1,10 @@
 {
   "functions": {
     "api/index.php": {
-      "runtime": "vercel-community/php@0.4.3"
+      "runtime": "vercel-community/php@0.8.0"
     },
     "api/download_vcf.php": {
-      "runtime": "vercel-community/php@0.4.3"
+      "runtime": "vercel-community/php@0.8.0"
     }
   },
   "rewrites": [
