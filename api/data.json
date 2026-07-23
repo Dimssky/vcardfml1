@@ -3,7 +3,7 @@
     "name": "Willy Leonardy",
     "title": "Director",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6282141614725",
+    "mobile": "",
     "phone": "+622154358009",
     "wechat_qr": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/wechat/wechat-willy.png",
     "email": "willy@jkt.forinlogistics.com",
@@ -19,7 +19,7 @@
     "name": "Dimas Rasyid",
     "title": "IT Support & Infrastructure",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6285972713900",
+    "mobile": "",
     "phone": "+622154358009",
     "wechat_qr": "",
     "email": "it@jkt.forinlogistics.com",
@@ -31,292 +31,165 @@
       "website": "https://forinlogistics.com"
     }
   },
-  "shearly": {
-    "name": "Shearly",
-    "title": "Finance & Administration",
+  "melissa": {
+    "name": "Melissa Kusmono",
+    "title": "Assistant Director",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000003",
+    "mobile": "+6281938345631",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "shearly@jkt.forinlogistics.com",
+    "email": "bd@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
+      "youtube": "https://youtube.com/@forinlogistics",
       "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "syarif": {
-    "name": "Syarif",
-    "title": "Operations Manager",
+  "nova": {
+    "name": "Nova Puspitasari",
+    "title": "HOD Forwarding Air Genco Dept.",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000004",
+    "mobile": "+628121323229",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "syarif@jkt.forinlogistics.com",
+    "email": "air@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "andi": {
-    "name": "Andi Pratama",
-    "title": "Sales Executive",
+  "doni": {
+    "name": "Doni",
+    "title": "Commissioner",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000005",
+    "mobile": "+62816873908",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "andi@jkt.forinlogistics.com",
+    "email": "doni@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "budi": {
-    "name": "Budi Santoso",
-    "title": "Export-Import Specialist",
+  "nadia": {
+    "name": "Nadia Puji Astuti",
+    "title": "HOD Forwarding Air Perish Dept.",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000006",
+    "mobile": "+6285888501540",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "budi@jkt.forinlogistics.com",
+    "email": "air1@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "citra": {
-    "name": "Citra Lestari",
-    "title": "Customer Service",
+  "nila": {
+    "name": "Nila Setiawati",
+    "title": "HOD Forwarding Sea Dept.",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000007",
+    "mobile": "+6281932021773",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "citra@jkt.forinlogistics.com",
+    "email": "sea@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "dewi": {
-    "name": "Dewi Anggraini",
-    "title": "HR & GA Manager",
+  "abed": {
+    "name": "Abednego",
+    "title": "HOD Custom Brokerage Dept.",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000008",
+    "mobile": "+6281381170183",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "dewi@jkt.forinlogistics.com",
+    "email": "cbd@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "eka": {
-    "name": "Eka Saputra",
-    "title": "Logistics Coordinator",
+  "sugiarto": {
+    "name": "Sugiarto",
+    "title": "Marketing",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000009",
+    "mobile": "+6285813455515",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "eka@jkt.forinlogistics.com",
+    "email": "marketing@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "fajar": {
-    "name": "Fajar Hidayat",
+  "siti": {
+    "name": "Siti Julaiha",
     "title": "Fleet Supervisor",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000010",
+    "mobile": "",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "fajar@jkt.forinlogistics.com",
+    "email": "marketing@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "gita": {
-    "name": "Gita Permata",
-    "title": "Accounting Staff",
+  "yovan": {
+    "name": "Yovan Riskianto",
+    "title": "Chief Finance Dept.",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000011",
+    "mobile": "+6281295571381",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "gita@jkt.forinlogistics.com",
+    "email": "chief.fin@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
     }
   },
-  "hadi": {
-    "name": "Hadi Wijaya",
-    "title": "Customs Clearance",
+  "alfilah": {
+    "name": "Alfilah Choiriyah ",
+    "title": "Chief Tax Accounting Dept.",
     "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000012",
+    "mobile": "+6282291321590",
     "phone": "+622154358009",
     "wechat_qr": "",
-    "email": "hadi@jkt.forinlogistics.com",
+    "email": "chief.acc@jkt.forinlogistics.com",
     "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
     "social": {
-      "youtube": "",
-      "instagram": "",
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
-    }
-  },
-  "indah": {
-    "name": "Indah Sari",
-    "title": "Marketing Manager",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000013",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "indah@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
-    }
-  },
-  "joko": {
-    "name": "Joko Susilo",
-    "title": "Warehouse Staff",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000014",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "joko@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
-    }
-  },
-  "kiki": {
-    "name": "Kiki Amalia",
-    "title": "Data Entry",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000015",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "kiki@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
-    }
-  },
-  "lina": {
-    "name": "Lina Marlina",
-    "title": "Procurement Staff",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000016",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "lina@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
-    }
-  },
-  "ryan": {
-    "name": "Ryan Kusuma",
-    "title": "Business Development",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000017",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "ryan@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
-    }
-  },
-  "sari": {
-    "name": "Sari Wahyuni",
-    "title": "Receptionist",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000018",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "sari@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
-    }
-  },
-  "tommy": {
-    "name": "Tommy Kurniawan",
-    "title": "Forwarding Operations",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000019",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "tommy@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
-    }
-  },
-  "vina": {
-    "name": "Vina Panduwinata",
-    "title": "Legal Officer",
-    "company": "PT. Forin Maju Logistik",
-    "mobile": "+6281200000020",
-    "phone": "+622154358009",
-    "wechat_qr": "",
-    "email": "vina@jkt.forinlogistics.com",
-    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
-    "social": {
-      "youtube": "",
-      "instagram": "",
-      "website": "https://forinlogistics.com"
+  
     }
   }
 }
