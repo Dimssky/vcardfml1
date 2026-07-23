@@ -5,11 +5,6 @@
       "destination": "/image/$1"
     },
     {
-     "functions": {
-    "api/index.php": {
-      "runtime": "vercel-php@0.8.0"
-    },
-    {
       "source": "/download_vcf.php",
       "destination": "/api/download_vcf.php"
     },
@@ -17,6 +12,6 @@
       "source": "/(.*)",
       "destination": "/api/index.php"
     }
-  
+  ]
 }
 
