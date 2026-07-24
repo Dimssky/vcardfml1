@@ -29,6 +29,22 @@
       "youtube": "https://youtube.com/@forinlogistics",
       "instagram": "https://instagram.com/forinlogistics",
       "website": "https://forinlogistics.com"
+    } 
+  },
+  "dian": {
+    "name": "Dian Aryanti",
+    "title": "Forwarding Air Genco",
+    "company": "PT. Forin Maju Logistik",
+    "mobile": "+6281292955713",
+    "phone": "+622154358009",
+    "wechat_qr": "",
+    "email": "cs2.air@jkt.forinlogistics.com",
+    "logo": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
+    "banner": "https://raw.githubusercontent.com/Dimssky/vcardfml1/main/image/logo-forin.png",
+    "social": {
+      "youtube": "https://youtube.com/@forinlogistics",
+      "instagram": "https://instagram.com/forinlogistics",
+      "website": "https://forinlogistics.com"
     }
   },
   "melissa": {
@@ -49,7 +65,7 @@
   },
   "nova": {
     "name": "Nova Puspitasari",
-    "title": "HOD Forwarding Air Genco Dept.",
+    "title": "HOD Forwarding Air Genco",
     "company": "PT. Forin Maju Logistik",
     "mobile": "+6281213232291",
     "phone": "+622154358009",
@@ -81,7 +97,7 @@
   },
   "nadia": {
     "name": "Nadia Puji Astuti",
-    "title": "HOD Forwarding Air Perish Dept.",
+    "title": "HOD Forwarding Air Perish",
     "company": "PT. Forin Maju Logistik",
     "mobile": "+6285888501540",
     "phone": "+622154358009",
@@ -97,7 +113,7 @@
   },
   "nila": {
     "name": "Nila Setiawati",
-    "title": "HOD Forwarding Sea Dept.",
+    "title": "HOD Forwarding Sea",
     "company": "PT. Forin Maju Logistik",
     "mobile": "+6281932021773",
     "phone": "+622154358009",
@@ -113,7 +129,7 @@
   },
   "abed": {
     "name": "Abednego",
-    "title": "HOD Custom Brokerage Dept.",
+    "title": "HOD Custom Brokerage",
     "company": "PT. Forin Maju Logistik",
     "mobile": "+6281381170183",
     "phone": "+622154358009",
@@ -145,7 +161,7 @@
   },
   "siti": {
     "name": "Siti Julaiha",
-    "title": "Fleet Supervisor",
+    "title": "Marketing",
     "company": "PT. Forin Maju Logistik",
     "mobile": "+6281293347775",
     "phone": "+622154358009",
